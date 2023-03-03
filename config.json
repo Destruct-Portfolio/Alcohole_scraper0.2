@@ -1,0 +1,9 @@
+{
+  "user": "hichem",
+  "password": "hichem",
+  "server": "hichem",
+  "database": "string",
+  "options": {
+    "encrypt": true
+  }
+}
